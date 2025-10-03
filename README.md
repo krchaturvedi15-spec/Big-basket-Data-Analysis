@@ -1,2 +1,34 @@
-# Netflix-Data-Analysis
-In this project, I performed an exploratory data analysis on the Netflix dataset using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn. The data was cleaned and pre-processed by handling missing values, duplicates, and formatting issues to ensure accuracy. I analyzed content distribution across different genres, release years, ratings, and countries to identify viewing and production trends. The analysis revealed key insights such as the increasing growth of Netflix original content, the dominance of TV shows after 2015, and the major contributions from countries like the United States and India. Visualizations including bar charts, heatmaps, and trend graphs were created to effectively present the findings, which can help inform content strategy and audience targeting decisions.
+🎬 Netflix Data Analysis
+📌 Overview
+
+This project explores the Netflix dataset using Python to understand content distribution, trends, and audience preferences. Through data cleaning, exploratory data analysis (EDA), and visualization, the project uncovers patterns in genres, release years, countries, and ratings, providing actionable insights for content strategy and decision-making.
+
+🎯 Objectives
+
+Clean and preprocess the dataset for accurate analysis.
+
+Explore content distribution by genre, country, and release year.
+
+Analyze trends in TV shows and movies over time.
+
+Visualize insights using charts and graphs for better understanding.
+
+🛠️ Tools & Libraries
+
+Python
+
+Pandas, NumPy – Data manipulation
+
+Matplotlib, Seaborn – Data visualization
+
+Jupyter Notebook – Development environment
+
+📊 Key Insights
+
+Growth in Netflix original content over the years.
+
+TV shows dominate content production post-2015.
+
+Popular genres and their release trends over time.
+
+Country-wise content contributions, with major contributions from the US and India.
